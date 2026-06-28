@@ -36,9 +36,7 @@ Hand-Gesture-Volume-Control/
 ├── VolumeControl.py
 ├── requirements.txt
 ├── README.md
-├── assets/
-│   ├── demo.gif
-│   └── screenshot.png
+
 ```
 
 ---
@@ -83,35 +81,6 @@ python VolumeControl.py
 
 ---
 
-## Demo
-
-### GIF
-
-Place your demo GIF here.
-
-```
-assets/demo.gif
-```
-
----
-
-### Screenshot
-
-Place a screenshot here.
-
-```
-assets/screenshot.png
-```
-
----
-
-## Future Improvements
-
-* Gesture smoothing to reduce jitter
-* Multi-hand gesture support
-* Cross-platform audio control
-* Gesture recognition using machine learning
-* GUI for sensitivity adjustment
 
 ---
 
